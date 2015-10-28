@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>7z</string>
+	<string>rar</string>
+	<string>cbr</string>
+	<string>cbz</string>
+	<string>rar</string>
+	<string>xz</string>
+	<string>zip</string>
+	<string>cab</string>
+	<string>exe</string>
+	<string>iso</string>
+	<string>pax</string>
+	<string>lzma</string>
+	<string>cpgz</string>
+	<string>cpio</string>
+	<string>tar</string>
+	<string>tgz</string>
+	<string>tgzip</string>
+	<string>gz</string>
+	<string>gzip</string>
+	<string>tbz</string>
+	<string>tbzip</string>
+	<string>bz</string>
+	<string>bzip</string>
+	<string>tbz2</string>
+	<string>tbzip2</string>
+	<string>bz2</string>
+	<string>bzip2</string>
+	<string>001</string>
+	<string>lha</string>
+	<string>lzh</string>
+</array>
+</plist>
