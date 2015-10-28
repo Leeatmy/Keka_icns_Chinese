@@ -14,4 +14,7 @@
 
 ### 中文化
 - 中文化了 右键`服务`菜单中的`使用Keka压缩文件`
+
+`使用 Keka 压缩文件.workflow`放置到`/Users/"你的用户名"/Library/Services`
+
 - 菜单中文汉化 `zh_CN.lproj `收集自网络
