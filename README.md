@@ -17,4 +17,4 @@
 
 `使用 Keka 压缩文件.workflow`放置到`/Users/"你的用户名"/Library/Services`
 
-- 菜单中文汉化 `zh_CN.lproj `收集自网络
+- 菜单中文汉化 `zh_CN.lproj ` 收集自网络
