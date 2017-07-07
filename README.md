@@ -10,11 +10,21 @@
 
 使用Logoist制作了简洁好辨识图标，保证在10号最小字体下，也能辨识看清楚。
 
+2017-07 从新制作了一些图标
+重点流行的「zip」「7z」「rar」从蓝色变成了更好辨识的橘黄色
+![](https://github.com/Leeatmy/Keka_Chinese/blob/master/Screenshot/2017-07%20new%20icns.png?raw=true)
+
+分栏16号字体下的显示效果
+![](https://github.com/Leeatmy/Keka_Chinese/blob/master/Screenshot/2017-07%2016.png?raw=true）
+
+2016年作的图标
 ![](https://github.com/Leeatmy/Keka_Chinese/blob/master/Screenshot/look%20icon.png)
 
 ### 中文化
-- 中文化了 右键`服务`菜单中的`使用Keka压缩文件`
+- 中文化了 右键`服务`菜单中的`「压缩」文件使用 Keka`
 
-`使用 Keka 压缩文件.workflow`放置到`/Users/"你的用户名"/Library/Services`
+`Keka-ConTextMenu-zhs.201707.7z`解压缩后，放置到`/Users/"你的用户名"/Library/Services`
 
 - 菜单中文汉化 `zh_CN.lproj ` 收集自网络
+原作者错误不少，而且一些翻译不准确。因本人技术水平限制，只能算Mac爱好者，只修改了表面的错误，xcode再复杂一些的不会操作。
+保留了2个已知错误：一个语言条中的还有翻译错误「最快速，不压缩」「快速，不压缩」正确的是「快速 少量压缩」，一个是设定中的解压缩界面是错误的。如有解决方法请提供。
