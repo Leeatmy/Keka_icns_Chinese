@@ -14,8 +14,8 @@
 重点流行的「zip」「7z」「rar」从蓝色变成了更好辨识的橘黄色
 ![](https://github.com/Leeatmy/Keka_Chinese/blob/master/Screenshot/2017-07%20new%20icns.png?raw=true)
 
-分栏16号字体下的显示效果
-![](https://github.com/Leeatmy/Keka_Chinese/blob/master/Screenshot/2017-07%2016.png?raw=true）
+分栏`16号字体`下的显示效果
+![](https://github.com/Leeatmy/Keka_Chinese/blob/master/Screenshot/2017-07%2016.png?raw=true)
 
 2016年作的图标
 ![](https://github.com/Leeatmy/Keka_Chinese/blob/master/Screenshot/look%20icon.png)
