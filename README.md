@@ -11,13 +11,13 @@
 使用Logoist制作了简洁好辨识图标，保证在10号最小字体下，也能辨识看清楚。
 
 #### 2017-07 从新制作了全部图标
-由蓝色图标变成了象征纸箱子打包📦 的橘黄色
+由`蓝色`图标变成了象征纸箱子打包📦 的`棕色`
 ![](https://github.com/Leeatmy/Keka_Chinese/blob/master/Screenshot/2017-07%20new%20icns.png?raw=true)
 
 #### 2017-07 新图标 分栏`16号字体`下的显示效果
 ![](https://github.com/Leeatmy/Keka_Chinese/blob/master/Screenshot/2017-07%2016.png?raw=true)
 
-#### 2016年作的图标
+#### 2016年作的蓝色图标
 ![](https://github.com/Leeatmy/Keka_Chinese/blob/master/Screenshot/look%20icon.png)
 
 ### 中文化
