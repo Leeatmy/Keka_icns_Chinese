@@ -4,6 +4,7 @@
 - 本程序为自用 在Github上仅作备份
 - 对原程序只是换了`自制图标`与加入`zh_CN.lproj` `zh_TW.lproj`
 - 请使用原程序，从官方网站http://www.kekaosx.com/zh-tw/ 或http://sourceforge.net/projects/keka/ 处下载。
+- 自制的图标包，到今天2018年05月，一直表现不错，适合于所有的Keka升级版本，本人非常喜欢😍。。
 
 ### 自制图标
 为了更换Keka原图标，先是寻找了各种网上已有的，发现不是字体不好辨识就是不美观，干脆就自己来做了。
@@ -25,5 +26,4 @@
 
 `Keka-ConTextMenu-zhs.201707.7z`解压缩后，放置到`/Users/"你的用户名"/Library/Services`
 
-- 菜单中文汉化 `zh_CN.lproj ` 改成官方论坛文件
-
+- 菜单中文汉化 `zh_CN.lproj ` 使用官方论坛提供的文件
