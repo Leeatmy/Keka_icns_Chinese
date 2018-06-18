@@ -2,7 +2,7 @@
 
 ## 自述
 - 对原程序只是换了`自制图标`与加入`zh_CN.lproj` `zh_TW.lproj`
-- 请使用原程序，从官方网站http://www.kekaosx.com/或http://sourceforge.net/projects/keka/ 处下载。
+- 请使用原程序，从官方网站http://www.kekaosx.com/ 或 http://sourceforge.net/projects/keka/ 处下载。
 - 自制的图标包，到今天2018年05月，一直表现不错。。
 
 ### 自制图标
