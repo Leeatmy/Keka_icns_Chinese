@@ -1,10 +1,9 @@
 # Keka 更换自制图标 & 中文化
 
 ## 自述
-- 本程序为自用 在Github上仅作备份
 - 对原程序只是换了`自制图标`与加入`zh_CN.lproj` `zh_TW.lproj`
-- 请使用原程序，从官方网站http://www.kekaosx.com/zh-tw/ 或http://sourceforge.net/projects/keka/ 处下载。
-- 自制的图标包，到今天2018年05月，一直表现不错，适合于所有的Keka升级版本，本人非常喜欢😍。。
+- 请使用原程序，从官方网站http://www.kekaosx.com/或http://sourceforge.net/projects/keka/ 处下载。
+- 自制的图标包，到今天2018年05月，一直表现不错。。
 
 ### 自制图标
 为了更换Keka原图标，先是寻找了各种网上已有的，发现不是字体不好辨识就是不美观，干脆就自己来做了。
