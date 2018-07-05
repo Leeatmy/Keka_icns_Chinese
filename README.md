@@ -1,9 +1,26 @@
+# Keka 更换自制图标
+
+- keka更新到了1.1.1版本，内置了中文，并且从新更了其全部的图标。
+
+- 所以，原来这个条目的作用很大已经没有了。
+
+- 至于，自制 keka 新图标放置到新的条目中去。
+
+https://github.com/Leeatmy/macOS_files_icns
+
+更丰富的各种自制简洁图标
+
+![](https://raw.githubusercontent.com/Leeatmy/macOS_files_icns/master/Screenshot/1.png?raw=true)
+
+
+—————————————————— 分割线 原来的 ——————————————————
+
 # Keka 更换自制图标 & 中文化
 
 ## 自述
 - 对原程序只是换了`自制图标`与加入`zh_CN.lproj` `zh_TW.lproj`
 - 请使用原程序，从官方网站http://www.kekaosx.com/ 或 http://sourceforge.net/projects/keka/ 处下载。
-- 自制的图标包，到今天2018年05月，一直表现不错。。
+- 本图标包为自用，在github上仅做备份。
 
 ### 自制图标
 为了更换Keka原图标，先是寻找了各种网上已有的，发现不是字体不好辨识就是不美观，干脆就自己来做了。
